@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaleem4535</h1>
 <h3 align="center">I'm web developer from Pakistan</h3>
-<img align="right"alt="coding"width="400"src="![image](https://github.com/user-attachments/assets/36ca52bf-2ac6-4716-8876-02ebe212bda0)
-"
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaleem4535&label=Profile%20views&color=0e75b6&style=flat" alt="kaleem4535" /> </p>
 
 - ⚡ Fun fact **I am funny**
